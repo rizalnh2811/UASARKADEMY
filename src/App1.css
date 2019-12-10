@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Pangolin&display=swap" rel="stylesheet');
+
+.wrapper {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+}
+
+.gambar {
+    background-image: url(./landing/storage/bunga.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.wrapper-top {
+    margin-left: 15%;
+    margin-top: 15%;
+    font-family: 'Pangolin', cursive;
+
+}
+
+.flex-button {
+    margin-left: 15%;
+    margin-top: 40px;
+    background: #00B894;
+    border: 1px solid #00B894;
+    width: 10%;
+    border-radius: 5px;
+}
+
+.flex-button1 {
+    margin-left: 15%;
+    margin-top: 40px;
+    background: #00B894;
+    border: 1px solid #00B894;
+    width: 10%;
+    border-radius: 5px;
+}
+
+.button {
+    text-align: center;
+}
+
+.button1 {
+    text-align: center;
+}
+
+.text {
+    font-size: 15px;
+    color: white;
+    font-family: 'Pangolin', cursive;
+}
+
+.text1 {
+    font-size: 15px;
+    color: white;
+    font-family: 'Pangolin', cursive;
+}
